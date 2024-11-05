@@ -1,0 +1,13 @@
+# Ambiente Virtual e Arquivos Pessoais
+venv/
+*.pyc
+__pycache__/
+
+# Banco de dados SQLite
+db.sqlite3
+
+# Configurações e Chaves Sensíveis
+.env
+
+# Arquivos de migração
+*/migrations/*
